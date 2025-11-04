@@ -1,7 +1,7 @@
 Bu depo, yt-dlp ve FFmpeg kütüphanelerini kullanarak bir YouTube videosundan en iyi video ve ses akışlarını indirip bunları otomatik olarak tek bir çıktı dosyasında birleştiren bir Python betiği içerir.
 
 ✨ Temel Özellikler
-Ayrı İndirme: Yüksek kaliteli video ve ses akışlarını bağımsız olarak çeker.
+Ayrı İndirme: Yüksek kaliteli video ve ses akışlarını bağımsız olarak çeker
 
 Otomatik Birleştirme: FFmpeg aracılığıyla indirilen parçaları tek bir nihai dosyada birleştirir.
 
